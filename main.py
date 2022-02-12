@@ -26,7 +26,7 @@ def index():
                   <head>
                     <meta charset="utf-8">
                     <link rel="stylesheet" type="text/css" href="{url_for('static', filename='css/style.css')}" />
-                    <title>И на Марсе будут яблони цвести!</title>
+                    <title>Привет, Марс!</title>
                   </head>
                   <body>
                     <h1>И на Марсе будут яблони цвести!</h1>
