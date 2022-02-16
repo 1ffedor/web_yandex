@@ -1,4 +1,4 @@
-# https://github.com/1ffedor/web_yandex/blob/problem6
+# https://github.com/1ffedor/web_yandex/blob/WEB.2.problem1
 
 from flask import Flask, url_for, render_template
 import json
